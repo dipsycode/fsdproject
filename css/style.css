@@ -1,0 +1,32 @@
+body{background-color:rgb(39, 39, 38);}
+
+{background-color: rgb(161, 190, 245);}
+
+
+
+.banner-custom-bg {
+    background-color: #e36e68;
+}
+
+.highlight {
+    color: #c9aab6;
+}
+
+.category img {
+    height: 100px;
+}
+
+.card {
+    border: none;
+    box-shadow: 35px 30px 38px rgb(213, 207, 238);
+}
+
+.lates-says {
+    background-color: #FEEAE9;
+    padding: 50px;
+}
+
+.panda-buynow-btn {
+    background-color: #2f2b2d;
+    color: white;
+}
